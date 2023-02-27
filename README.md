@@ -3,7 +3,7 @@
 * Open gen.py any editor
 * Modify data variable 
 *example:*
-```
+```python
 datas = '''tamil,919791631757
 kabilan,919791631757
 algo,919791631757'''
