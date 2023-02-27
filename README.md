@@ -14,7 +14,7 @@ algo,919791631757'''
 * `Note: don't change .vcf extension`
 
 **step 3**
-* last name your identify the contacts
+* `lastName='QWIKA CUSTOMER'` your identify the contacts
 
 **step 4**
 * double click the `generate-vcf.bat`
